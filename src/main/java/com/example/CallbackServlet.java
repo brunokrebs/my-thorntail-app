@@ -1,4 +1,4 @@
-package com.auth0.example;
+package com.example;
 
 import java.io.IOException;
 import javax.servlet.annotation.WebServlet;
@@ -11,7 +11,7 @@ public class CallbackServlet extends HttpServlet {
 
     @Override
     protected void doGet(final HttpServletRequest req, final HttpServletResponse res) throws IOException {
-        res.sendRedirect("/portal/home");
+        res.sendRedirect("/index.xhtml");
     }
 
 }

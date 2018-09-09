@@ -1,4 +1,4 @@
-package com.auth0.example;
+package com.example;
 
 import com.auth0.AuthenticationController;
 import com.auth0.IdentityVerificationException;

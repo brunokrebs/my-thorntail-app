@@ -1,4 +1,4 @@
-package com.auth0.example;
+package com.example;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
