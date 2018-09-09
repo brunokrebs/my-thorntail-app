@@ -1,0 +1,9 @@
+swarm:
+    http:
+        port: 3000
+auth0:
+    domain: blog-samples.auth0.com
+    clientId: SuoiycuMR153gMjh0euZ6DZyfhQGs5pA
+    clientSecret: s89uKNQEkynbNnHbSe0iK_JwRrLsLawh77KTFCrNUITKdJ_SHiiOfkfNAxVC-hpx
+    scope: openid profile email
+    callbackUri: /callback
